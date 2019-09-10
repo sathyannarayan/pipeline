@@ -1,4 +1,6 @@
+https://dev.azure.com/nischals/New_Proj/_apis/build/status/sathyannarayan.pipeline?branchName=master
 
+[![Build Status](https://dev.azure.com/nischals/New_Proj/_apis/build/status/sathyannarayan.pipeline?branchName=master)](https://dev.azure.com/nischals/New_Proj/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
